@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EspressoTest</string>
+    <string name="select_viewtype">Select ViewType:</string>
+    <string name="view_is_selected">%s is selected</string>
+    <string name="next_screen">Next Screen</string>
+    <string name="type_something">Type something</string>
+    <string name="checkme">CheckMe</string>
+    <string name="dummy_textview">Dummy Text</string>
+    <string name="checked_false">Checked-False</string>
+    <string name="validate">Validate</string>
+
+    <string name="editText">EditText</string>
+    <string name="textView">TextView</string>
+    <string name="checkBox">CheckBox</string>
+    <string name="listView">ListView</string>
+    <string name="enter_only_alphabet">Enter Only Alphabet</string>
+    <string name="only_alphabets_allowed">Only alphabets are allowed</string>
+
+    <string-array name="ViewType">
+        <item>@string/editText</item>
+        <item>@string/textView</item>
+        <item>@string/checkBox</item>
+        <item>@string/listView</item>
+    </string-array>
+
+    <string-array name="ListItem">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+    </string-array>
+</resources>
